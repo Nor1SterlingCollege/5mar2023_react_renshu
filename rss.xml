@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Ｊａｖａｓｃｒｉｐｔ　Ｌａｂｏ</title>
+		<link>http://kaigoshoku.client.jp/</link>
+		<description></description>
+		<language>ja</language>
+		<pubDate>Sat, 4 Mar 2023 23:32:38 +0900</pubDate>
+		<lastBuildDate>Sat, 4 Mar 2023 23:32:38 +0900</lastBuildDate>
+		<item>
+			<title>Javascript Labo</title>
+			<link>http://kaigoshoku.client.jp/index.html</link>
+			<description>           
+           
+           PlaceHolder</description>
+			<pubDate>Sat, 4 Mar 2023 23:32:38 +0900</pubDate>
+			<guid isPermaLink="true">http://kaigoshoku.client.jp/index.html</guid>
+		</item>
+	</channel>
+</rss>
